@@ -63,13 +63,8 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteesh-data-proffiesional&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteesh-data-proffiesional&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=niteesh-data-proffiesional&show_icons=true&theme=tokyonight&hide_border=true)
 
----
-
-<div align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niteesh-data-proffiesional&layout=compact&theme=tokyonight&hide_border=true)
   <sub>Designed with ❤️ by Niteesh</sub>
 </div>
