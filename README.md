@@ -60,11 +60,25 @@
 > A clinical intelligence platform engineered to transform raw patient data into actionable health insights and predictive metrics.
 
 ---
+### 📊 Activity & Stack Overview
 
-### 📊 GitHub Statistics
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=niteesh-data-proffiesional&show_icons=true&theme=tokyonight&hide_border=true)
+  <!-- Clean Activity Graph (Always renders reliably) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niteesh-data-proffiesional&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niteesh-data-proffiesional&layout=compact&theme=tokyonight&hide_border=true)
+  <br/><br/>
+
+  <!-- High-Impact Live Stats Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20ML-blue?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Main%20Project-Healthcare%20Patient%20360-teal?style=for-the-badge&logo=netlify&logoColor=white" />
+  </p>
+
+</div>
+
+---
+
+<div align="center">
   <sub>Designed with ❤️ by Niteesh</sub>
 </div>
